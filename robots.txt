@@ -1,0 +1,4 @@
+Sitemap: https://blog.fadil.info/sitemapindex.xml
+
+User-Agent: *
+Host: blog.fadil.info
